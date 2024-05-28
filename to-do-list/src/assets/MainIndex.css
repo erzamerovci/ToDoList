@@ -25,7 +25,8 @@ button{
 }
 
 .add-button{
-    background-color:hsl(125, 47%, 54%) ;   
+    background-color:hsl(125, 47%, 54%) ; 
+    margin-left: 10px;  
 }
 
 .add-button:hover{
